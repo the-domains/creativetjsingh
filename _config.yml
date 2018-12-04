@@ -1,0 +1,29 @@
+color:
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  brandStrength: 0.6570712542161345
+  lightness: 0.030519208405166864
+  saturation: 0.41270915139466524
+  rhythmicContrast: 0.06995452241972089
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: creativetjsingh
+layout_spectrum: 0.35518034687265754
+typography_spectrum: 0.9518911112099886
+content: []
+title: TJ Singh
+description: UX / UI Designer
+purpose:
+  - type: contact
+    url: 'mailto:tjsingh.creative@gmail.com'
+    label: Get in touch
+github: true
